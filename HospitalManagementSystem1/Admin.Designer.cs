@@ -164,6 +164,7 @@ namespace HospitalManagementSystem1
             this.Controls.Add(this.button1);
             this.Name = "Admin";
             this.Text = "Admin";
+            // Tonmoy Teset
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
